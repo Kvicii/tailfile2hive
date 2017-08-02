@@ -1,0 +1,2 @@
+# tailfile2hive
+实时读取file文件，tail2hive.py文件读取文件放到newaccessmaphive.txt，错误日志放到newaccesswrong.txt. monitortail2hive.sh监控脚本并且可以自动启动脚本。realtime2hive.sh可以批量导入文件到hive中
